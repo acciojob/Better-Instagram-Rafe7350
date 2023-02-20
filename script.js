@@ -32,7 +32,10 @@ window.onload= function(){
         });
     
 
-        })
+        });
+    }
+
+
     
 
 
